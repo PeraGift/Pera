@@ -11,7 +11,7 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
-    background: url(background.png);
+    background: url(background.png) blue;
     background-size: cover;
     background-color:#464646;
     font-family: 'Times New Roman', Times, serif;
