@@ -18,7 +18,8 @@
 #ust .menu{
 	background: #D2D0D1;
 	padding: 10px;
-	height: 40px;
+    height: 40px;
+    background-color: #ff4765;
 }
 
 #orta{
