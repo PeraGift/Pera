@@ -42,57 +42,34 @@
     filter:alpha(opacity=60);
 }
 
-#kapsayici{
-    margin: 0 auto;
-    width: 940px;
+#ust {
+    width:100%;
+    height:150px;
+    background-color: blue;
+
 }
 
-#ust{
-	background: #E6E5E3;
-	margin: 0 0 10px 0;
-	padding: 10px 10px 10px 10px;
-	height: 150px;
+#iceriksol {
+    float :left;
+    widows:30%;
+    height:150px;
+    background-color: blue;
+    
 }
-#ust .logo {
-	padding: 10px;
-	font-size: 24px;
-	font-weight: bold;
-	height: 70px;
-}
-#ust .menu{
-	background: #D2D0D1;
-	padding: 10px;
-	height: 40px;
+#iceriksag {
+    widows:70%;
+    height:400;
+    background-color: blue;
+    
 }
 
-#orta{
-	background: #E6E5E3;
-	padding: 10px;
-	margin: 0 0 10px 0;
+#alt {
+    widows:100%;
+    height:50;
+    background-color: blue;
+    
 }
-#orta .icerik{
-	background: #D2D0D1;
-	float: left;
-	width: 650px;
-	padding: 10px;
-	margin: 0 10px 0 0;
-	position: relative;
-	height: 500px;
-}
-#orta .yan-menu{
-	background: #D2D0D1;
-	float: right;
-	width: 220px;
-	padding: 10px;
-	position: relative;
-	height: 500px;
-}
-.temizle{clear: both;}
-
-#alt{
-	background: #E6E5E3;
-	padding: 10px;
-	height: 150px;
-}
-
-
+    
+    
+    
+   
