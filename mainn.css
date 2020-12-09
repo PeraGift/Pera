@@ -4,7 +4,7 @@
 }
 
 #ust{
-	background: #ff4765;
+	background: black;
 	margin: 0 0 10px 0;
 	padding: 10px 10px 10px 10px;
 	height: 150px;
@@ -16,7 +16,7 @@
 	height: 70px;
 }
 #ust .menu{
-	background: #ff4765;
+	background: black;
 	padding: 10px;
     height: 40px;
 
